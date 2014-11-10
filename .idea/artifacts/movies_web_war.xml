@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="movies-web:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="movies-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="movies-web:war exploded" />
-    </root>
-  </artifact>
-</component>
